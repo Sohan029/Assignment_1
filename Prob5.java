@@ -11,5 +11,6 @@ public class Prob5 {
         num_1=num_2;
         num_2=swa;
         System.out.println(num_1+","+num_2);
+        
     }
 }
